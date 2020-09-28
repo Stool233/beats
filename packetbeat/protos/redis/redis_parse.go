@@ -111,7 +111,7 @@ var redisCommands = map[string]struct{}{
 	"HMSET":            {},
 	"HSCAN":            {},
 	"HSET":             {},
-	"HSETINX":          {},
+	"HSETNX":           {},
 	"HVALS":            {},
 	"INCR":             {},
 	"INCRBY":           {},
